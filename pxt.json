@@ -1,0 +1,28 @@
+{
+    "name": "Template Code - Adafruit ",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-bluefruit": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.13.49",
+        "tag": "v0.13.49",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/982cbf24f120ab0a69be15bd304671d743c16bd8",
+        "target": "0.13.49",
+        "pxt": "6.2.14",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
